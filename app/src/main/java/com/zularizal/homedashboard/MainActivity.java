@@ -68,6 +68,10 @@ public class MainActivity extends AppCompatActivity {
 
         Quote[] matches = null;
 
+        // remove any highlighting.
+        for (Quote q: mQuotes)
+            q.clearHits();
+
         if (rbExact.isChecked())
             matches = Matches(s);
         else if (rbAll.isChecked())
@@ -89,7 +93,7 @@ public class MainActivity extends AppCompatActivity {
             TextView tvSpeaker = (TextView) tr.findViewById(R.id.txtSpeaker);
             TextView tvQuotation = (TextView) tr.findViewById(R.id.txtQuotation);
             tvSpeaker.setText(q.Speaker);
-            tvQuotation.setText(q.Quotation);
+            tvQuotation.setText(q.highlightedText());
             tl.addView(tr, new LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT));
             final Quote quoteToView = q;
 
@@ -114,7 +118,10 @@ public class MainActivity extends AppCompatActivity {
         for (Quote q : mQuotes) {
             if (q == null)
                 continue;
-            if (bm.findAll(q.Quotation).size() > 0) {
+            List<Integer> result =  bm.findAll(q.Quotation);
+            if (result.size() > 0) {
+                for (int i : result)
+                    q.addHit(new WordRange(i, i + s.length()));
                 resultmatches.add(q);
             }
         }
@@ -140,8 +147,14 @@ public class MainActivity extends AppCompatActivity {
 
             Boolean fIsMatch = true;
             for (TBM bm : matchers) {
-                if (bm.findAll(q.Quotation).size() == 0)
+                List<Integer> result =  bm.findAll(q.Quotation);
+                if (result.size() == 0)
                     fIsMatch = false;
+                else {
+                    for (int i : result) {
+                        q.addHit(new WordRange(i, i + bm.matchLength));
+                    }
+                }
             }
 
             if (fIsMatch)
@@ -178,6 +191,9 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 int matchPos = lst.get(0);
+
+                int adjustedMatchPos = matchPos + (q.Quotation.length() - searchString.length());
+                q.addHit(new WordRange(adjustedMatchPos, adjustedMatchPos + matchers[i].matchLength));
 
                 searchString = searchString.substring(matchPos + words[i].length());
             }

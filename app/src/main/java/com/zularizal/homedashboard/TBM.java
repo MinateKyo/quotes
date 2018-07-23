@@ -8,6 +8,7 @@ public class TBM {
     private int m;
     private int[] bmGs, bmBc;
     private char[] x;
+    public int matchLength;
 
     private static void preBmBc(char[] x, int bmBc[]) {
         int i, m = x.length;
@@ -116,6 +117,7 @@ public class TBM {
         tbm.bmBc = bmBc;
         tbm.bmGs = bmGs;
         tbm.x = x;
+        tbm.matchLength = pattern.length();
 
         return tbm;
     }
