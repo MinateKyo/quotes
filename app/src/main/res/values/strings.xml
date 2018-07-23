@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HomeDashboard</string>
+    <string name="title_activity_quote_detail">QuoteDetailActivity</string>
+</resources>
