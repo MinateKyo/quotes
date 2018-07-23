@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4d4757833de964a6d97d6f79e8a14a41/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4d4757833de964a6d97d6f79e8a14a41/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4d4757833de964a6d97d6f79e8a14a41/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.zularizal.homedashboard.Home
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:12:19-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.zularizal.homedashboard.MainActivity
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:19:9-50
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:19:19-47
+activity#com.zularizal.homedashboard.about
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:20:19-40
+activity#com.zularizal.homedashboard.QuoteDetailActivity
+ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:21:9-24:56
+	android:label
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:23:13-64
+	android:theme
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:24:13-44
+	android:name
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml:22:13-48
+uses-sdk
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4d4757833de964a6d97d6f79e8a14a41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/4d4757833de964a6d97d6f79e8a14a41/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ericberman/Downloads/HomeDashboard/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/85bfc0420f40a5d934151ef3f09d9eb4/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.4.0.aar/9f82e7ce9c26a60585463e2c6afbae43/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.4.0.aar/67ffec469ca5a053ffe737d8aa2e2b41/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.4.0.aar/1330b565c243b5336539873dee345ade/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.4.0.aar/1cb71dd781d0002d64e609162d431fa5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/transition-25.4.0.aar/950197f3337d4147b9d694026f658e8c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-v4-25.4.0.aar/d4e4a4bacca7de965a47c3d35cdced65/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-fragment-25.4.0.aar/74e5773d54132b220c63e7d3e23c16d7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.4.0.aar/9dd40e29d3270f05a49f4c18b27eaafb/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.4.0.aar/bb822eaa06f4da55b33c5193ba1b2aca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.4.0.aar/ace0698787e83f19baf9f5d109352cf7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/support-compat-25.4.0.aar/56f460aa173493338224cbf18014b8ad/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:25.4.0] /Users/ericberman/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/9e0b46c22a91266645ca4997853e61a3/AndroidManifest.xml:27:13-51

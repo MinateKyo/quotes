@@ -1,0 +1,4 @@
+#Sun Jul 22 10:26:04 PDT 2018
+base.0=/Users/ericberman/Downloads/HomeDashboard/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

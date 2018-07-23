@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/ericberman/Downloads/HomeDashboard/app/src/main/assets"><file name="sentencetbm.db" path="/Users/ericberman/Downloads/HomeDashboard/app/src/main/assets/sentencetbm.db"/></source><source path="/Users/ericberman/Downloads/HomeDashboard/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ericberman/Downloads/HomeDashboard/app/src/debug/assets"/></dataSet></merger>
