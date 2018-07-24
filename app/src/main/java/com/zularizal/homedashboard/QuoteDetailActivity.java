@@ -33,7 +33,7 @@ public class QuoteDetailActivity extends AppCompatActivity {
             ((TextView) findViewById(R.id.lblSpeaker)).setText(q.Speaker);
             ((TextView) findViewById(R.id.lblPlace)).setText(q.Place);
             ((TextView) findViewById(R.id.lblDate)).setText(q.Timestamp.toString());
-            ((TextView) findViewById(R.id.lblQuote)).setText(q.Quotation);
+            ((TextView) findViewById(R.id.lblQuote)).setText(q.highlightedText());
         }
     }
 
